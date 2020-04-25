@@ -1,0 +1,22 @@
+{
+    "cSpell.ignoreWords": [
+        "gstore",
+        "ucsd"
+    ],
+
+    "bracket-pair-colorizer-2.colors": [
+        "purple",
+        "orange",
+        "Pink"
+    ],
+
+    "bracket-pair-colorizer-2.forceIterationColorCycle": true,
+    "files.associations": {
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    },
+}
